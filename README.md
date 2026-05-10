@@ -26,7 +26,7 @@ Best-selling products
 Peak customer hours
 High-performing stores
 Revenue trends over time
-Customer purchasing patterns
+Customer purchasing patterns 
 
 File: https://github.com/rahul-oss/Coffee-Shop-Sales-Dashboard/blob/main/Coffee%20Shop%20Sales%20Dashboard.pbix
 PNG Image: https://github.com/rahul-oss/Coffee-Shop-Sales-Dashboard/blob/main/Coffee%20Shop%20Dashboard.PNG
